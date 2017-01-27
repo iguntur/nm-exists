@@ -1,0 +1,42 @@
+{
+  "name": "nm-exists",
+  "version": "0.0.0",
+  "description": "Check if the node module has exists",
+  "license": "MIT",
+  "repository": "iguntur/nm-exists",
+  "author": {
+    "name": "Guntur Poetra",
+    "email": "poetra.guntur@gmail.com",
+    "url": "http://iguntur.starmediateknik.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "NODE_PATH",
+    "dependencies",
+    "devDependencies",
+    "exists",
+    "module",
+    "module-exists",
+    "modules",
+    "node",
+    "node_modules",
+    "package",
+    "path"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
