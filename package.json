@@ -1,6 +1,6 @@
 {
   "name": "nm-exists",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Check if the node module has exists",
   "license": "MIT",
   "repository": "iguntur/nm-exists",
